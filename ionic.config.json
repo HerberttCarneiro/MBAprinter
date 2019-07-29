@@ -1,5 +1,7 @@
 {
   "name": "MBAprinter",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
